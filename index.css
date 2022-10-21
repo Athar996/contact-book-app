@@ -1,0 +1,81 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cyan;
+}
+
+.options {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btns {
+    border: 2px solid black;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.btns:hover {
+    background-color: rgb(30, 255, 0);
+    border-bottom: 2px solid black;
+}
+
+.parent_container {
+    display: flex;
+    justify-content: center;
+}
+
+.inputags {
+    padding: 3px;
+    margin-left: 15px;
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    color: rgb(132, 0, 255);
+}
+
+.savediscardbtn {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.savebtn,
+.discardbtn {
+    font-size: larger;
+    background-color: rgba(17, 253, 253, 0.763);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.savebtn:hover {
+    background-color: blanchedalmond;
+    border-bottom: 3px solid black;
+}
+
+.discardbtn:hover {
+    background-color: blanchedalmond;
+    border-bottom: 3px solid black;
+}
+
+table,
+th {
+    border: 1px solid black;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+}
+
+.viewcontparent h2 {
+    text-align: center;
+}
