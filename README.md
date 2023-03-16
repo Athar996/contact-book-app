@@ -17,4 +17,4 @@
 
 *****************"View all  Contacts" button. *****************
 
---> after clicking it directs to view.php page where the Whatever data stored in the database the data gets retrieved  by performing 'select mysql command'. and displays in the table format.
+--> After clicking it directs to view.php page where the Whatever data stored in the database the data gets retrieved  by performing 'select mysql command'. and displays.
