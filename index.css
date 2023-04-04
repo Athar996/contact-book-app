@@ -72,10 +72,13 @@ th {
 }
 
 .cont {
-    display: flex;
-    justify-content: center;
+    float: left;
+    padding-left: 10%;
 }
 
 .viewcontparent h2 {
     text-align: center;
+    cursor: pointer;
+    
 }
+
