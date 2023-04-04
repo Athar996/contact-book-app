@@ -19,5 +19,9 @@
 
 --> After clicking it directs to view.php page where the Whatever data stored in the database the data gets retrieved  by performing 'select mysql command'. and displays.
 
+--> Two more buttons gets appeared where one buttons is directs back to add.html page where we can add contacts
 
-Github LinkL- https://athar996.github.io/contact-book-app/
+--> Other button which is delete contact after clicking it displays a input text and submit button in input tag user should enter firstname of contact whose wanted to delete from list contact gets deleted.
+
+
+Github Link- https://athar996.github.io/contact-book-app/
